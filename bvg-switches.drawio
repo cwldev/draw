@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-21T15:03:53.180Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="fcMSZm0ZJe9XAk_FAEes" version="13.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-21T15:04:26.109Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="wfvWdUVtyiakqHcQrQqZ" version="13.6.3" type="github">
   <diagram id="2mYRZW20Vw6ouSBLglps" name="Page-1">
     <mxGraphModel dx="747" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -42,7 +42,7 @@
         <mxCell id="_yT_B3aDCmFa8oAkZCny-2" value="ESW540 24 &lt;br&gt;4x gbSFP" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_24_port_L3_Alternative.svg;" parent="1" vertex="1">
           <mxGeometry x="40" y="210" width="78" height="52.8" as="geometry" />
         </mxCell>
-        <mxCell id="_yT_B3aDCmFa8oAkZCny-3" value="ESW540 48 4x gbSFP" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_24_port_L3_Alternative.svg;" parent="1" vertex="1">
+        <mxCell id="_yT_B3aDCmFa8oAkZCny-3" value="ESW540 48 4x gbSFP2" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_24_port_L3_Alternative.svg;" parent="1" vertex="1">
           <mxGeometry x="170" y="210" width="78" height="52.8" as="geometry" />
         </mxCell>
         <mxCell id="_yT_B3aDCmFa8oAkZCny-4" value="SG300-52P 2xgbSFP" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/switch/Switch_48_port_L3_POE.svg;" parent="1" vertex="1">
